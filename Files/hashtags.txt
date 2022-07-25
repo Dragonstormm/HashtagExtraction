@@ -1,0 +1,148 @@
+{"hashtagName": "#Ukraine", "frequency": 50, "listOfTweets": [7, 9, 19, 52, 58, 65, 78, 101, 103, 126, 127, 133, 135, 139, 149, 163, 164, 169, 173, 174, 181, 190, 193, 198, 233, 236, 238, 243, 246, 258, 259, 261, 263, 264, 265, 281, 283, 285, 303, 303, 315, 320, 327, 329, 334, 336, 341, 366, 371, 378]}
+{"hashtagName": "#Russia", "frequency": 35, "listOfTweets": [52, 58, 62, 66, 95, 99, 126, 127, 133, 135, 139, 143, 149, 151, 169, 174, 193, 233, 238, 243, 246, 249, 258, 259, 261, 263, 303, 315, 320, 327, 329, 334, 336, 341, 348]}
+{"hashtagName": "#NATO", "frequency": 8, "listOfTweets": [66, 103, 106, 145, 174, 249, 256, 259]}
+{"hashtagName": "#US", "frequency": 7, "listOfTweets": [19, 123, 123, 170, 174, 190, 256]}
+{"hashtagName": "#Putin", "frequency": 7, "listOfTweets": [19, 106, 139, 190, 243, 281, 315]}
+{"hashtagName": "#Turkey's", "frequency": 4, "listOfTweets": [7, 258, 261, 265]}
+{"hashtagName": "#Europe", "frequency": 4, "listOfTweets": [28, 86, 171, 379]}
+{"hashtagName": "#news", "frequency": 4, "listOfTweets": [28, 86, 171, 379]}
+{"hashtagName": "#euro", "frequency": 4, "listOfTweets": [28, 86, 171, 379]}
+{"hashtagName": "#Germany", "frequency": 4, "listOfTweets": [62, 66, 95, 99]}
+{"hashtagName": "#UkraineCrisis", "frequency": 4, "listOfTweets": [106, 151, 246, 332]}
+{"hashtagName": "#USA", "frequency": 4, "listOfTweets": [106, 181, 238, 366]}
+{"hashtagName": "#Russian", "frequency": 3, "listOfTweets": [7, 265, 319]}
+{"hashtagName": "#Russia's", "frequency": 3, "listOfTweets": [9, 19, 190]}
+{"hashtagName": "#andyvermaut", "frequency": 3, "listOfTweets": [29, 87, 381]}
+{"hashtagName": "#Poland", "frequency": 3, "listOfTweets": [66, 95, 99]}
+{"hashtagName": "#China", "frequency": 3, "listOfTweets": [99, 123, 139]}
+{"hashtagName": "#russia", "frequency": 3, "listOfTweets": [106, 145, 198]}
+{"hashtagName": "#Ukrainian", "frequency": 3, "listOfTweets": [123, 164, 170]}
+{"hashtagName": "#Ankara's", "frequency": 2, "listOfTweets": [7, 265]}
+{"hashtagName": "#PatientBilling", "frequency": 2, "listOfTweets": [31, 34]}
+{"hashtagName": "#PatientPayments", "frequency": 2, "listOfTweets": [31, 34]}
+{"hashtagName": "#helpECAAvisaApplicants", "frequency": 2, "listOfTweets": [38, 39]}
+{"hashtagName": "#BSG", "frequency": 2, "listOfTweets": [44, 45]}
+{"hashtagName": "#gas", "frequency": 2, "listOfTweets": [95, 99]}
+{"hashtagName": "#ukraine", "frequency": 2, "listOfTweets": [106, 145]}
+{"hashtagName": "#VladimirPutin", "frequency": 2, "listOfTweets": [122, 233]}
+{"hashtagName": "#UnitedStates", "frequency": 2, "listOfTweets": [163, 164]}
+{"hashtagName": "#RussiaUkraine", "frequency": 2, "listOfTweets": [208, 330]}
+{"hashtagName": "#Politics", "frequency": 2, "listOfTweets": [238, 293]}
+{"hashtagName": "#Turkey", "frequency": 2, "listOfTweets": [259, 263]}
+{"hashtagName": "#UkrainianCrisis", "frequency": 2, "listOfTweets": [327, 329]}
+{"hashtagName": "#Kharkiv", "frequency": 2, "listOfTweets": [327, 329]}
+{"hashtagName": "#CoronaVirusUpdates", "frequency": 1, "listOfTweets": [13]}
+{"hashtagName": "#coronavirus", "frequency": 1, "listOfTweets": [13]}
+{"hashtagName": "#France", "frequency": 1, "listOfTweets": [27]}
+{"hashtagName": "#BalkanServiceGroup", "frequency": 1, "listOfTweets": [45]}
+{"hashtagName": "#UEFA", "frequency": 1, "listOfTweets": [52]}
+{"hashtagName": "#European", "frequency": 1, "listOfTweets": [52]}
+{"hashtagName": "#FutsalEURO", "frequency": 1, "listOfTweets": [54]}
+{"hashtagName": "#John", "frequency": 1, "listOfTweets": [66]}
+{"hashtagName": "#Romania", "frequency": 1, "listOfTweets": [66]}
+{"hashtagName": "#ColdWar", "frequency": 1, "listOfTweets": [66]}
+{"hashtagName": "#brjl204", "frequency": 1, "listOfTweets": [75]}
+{"hashtagName": "#pipeline", "frequency": 1, "listOfTweets": [95]}
+{"hashtagName": "#pipelines", "frequency": 1, "listOfTweets": [95]}
+{"hashtagName": "#pipelinejournal", "frequency": 1, "listOfTweets": [95]}
+{"hashtagName": "#pipelinenews", "frequency": 1, "listOfTweets": [95]}
+{"hashtagName": "#pipelineindustry", "frequency": 1, "listOfTweets": [95]}
+{"hashtagName": "#naturalgas", "frequency": 1, "listOfTweets": [95]}
+{"hashtagName": "#Gazprom", "frequency": 1, "listOfTweets": [99]}
+{"hashtagName": "#Gas", "frequency": 1, "listOfTweets": [99]}
+{"hashtagName": "#YouTube", "frequency": 1, "listOfTweets": [103]}
+{"hashtagName": "#PutinAtWar", "frequency": 1, "listOfTweets": [106]}
+{"hashtagName": "#uk", "frequency": 1, "listOfTweets": [106]}
+{"hashtagName": "#troops", "frequency": 1, "listOfTweets": [106]}
+{"hashtagName": "#ImranKhan", "frequency": 1, "listOfTweets": [122]}
+{"hashtagName": "#Beijing", "frequency": 1, "listOfTweets": [122]}
+{"hashtagName": "#India", "frequency": 1, "listOfTweets": [123]}
+{"hashtagName": "#World:", "frequency": 1, "listOfTweets": [124]}
+{"hashtagName": "#Bloomberg", "frequency": 1, "listOfTweets": [133]}
+{"hashtagName": "#Breaking\u26a1\ufe0f\ud83d\udce3", "frequency": 1, "listOfTweets": [135]}
+{"hashtagName": "#Bitcoin", "frequency": 1, "listOfTweets": [138]}
+{"hashtagName": "#Sarang", "frequency": 1, "listOfTweets": [138]}
+{"hashtagName": "#genocide", "frequency": 1, "listOfTweets": [143]}
+{"hashtagName": "#overpopulation", "frequency": 1, "listOfTweets": [143]}
+{"hashtagName": "#innocentcasualties", "frequency": 1, "listOfTweets": [143]}
+{"hashtagName": "#yearofequality2022", "frequency": 1, "listOfTweets": [143]}
+{"hashtagName": "#yearofthegods2023", "frequency": 1, "listOfTweets": [143]}
+{"hashtagName": "#haveyouall2022", "frequency": 1, "listOfTweets": [143]}
+{"hashtagName": "#ex's", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#food", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#lol", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#rofl", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#lmfao", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#funny", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#joke", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#boris", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#putin", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#biden", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#trump", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#potus", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#war", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#fart", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#usa", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#america", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#europe", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#STRIKE", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#FIRST", "frequency": 1, "listOfTweets": [145]}
+{"hashtagName": "#mustread", "frequency": 1, "listOfTweets": [147]}
+{"hashtagName": "#Yavoriv", "frequency": 1, "listOfTweets": [164]}
+{"hashtagName": "#BREAKING", "frequency": 1, "listOfTweets": [170]}
+{"hashtagName": "#London", "frequency": 1, "listOfTweets": [170]}
+{"hashtagName": "#News", "frequency": 1, "listOfTweets": [170]}
+{"hashtagName": "#World", "frequency": 1, "listOfTweets": [170]}
+{"hashtagName": "#BlackSea", "frequency": 1, "listOfTweets": [173]}
+{"hashtagName": "#KerchStrait", "frequency": 1, "listOfTweets": [173]}
+{"hashtagName": "#ARTEMIS", "frequency": 1, "listOfTweets": [173]}
+{"hashtagName": "#Kaliningrad", "frequency": 1, "listOfTweets": [173]}
+{"hashtagName": "#RussiaInvadedUkraine", "frequency": 1, "listOfTweets": [194]}
+{"hashtagName": "#Donbas:", "frequency": 1, "listOfTweets": [195]}
+{"hashtagName": "#Donetsk", "frequency": 1, "listOfTweets": [198]}
+{"hashtagName": "#Olympics", "frequency": 1, "listOfTweets": [219]}
+{"hashtagName": "#Ukraine?", "frequency": 1, "listOfTweets": [219]}
+{"hashtagName": "#China?", "frequency": 1, "listOfTweets": [219]}
+{"hashtagName": "#Beijing2022DictatorshipGames", "frequency": 1, "listOfTweets": [221]}
+{"hashtagName": "#SoGreatDictatorPutin", "frequency": 1, "listOfTweets": [221]}
+{"hashtagName": "#Explained", "frequency": 1, "listOfTweets": [233]}
+{"hashtagName": "#RussiaUkraineCrisis", "frequency": 1, "listOfTweets": [234]}
+{"hashtagName": "#beijing", "frequency": 1, "listOfTweets": [236]}
+{"hashtagName": "#realpolitik", "frequency": 1, "listOfTweets": [238]}
+{"hashtagName": "#VladimirPutin\u2019s", "frequency": 1, "listOfTweets": [239]}
+{"hashtagName": "#Rusland", "frequency": 1, "listOfTweets": [243]}
+{"hashtagName": "#Oekra\u00efne", "frequency": 1, "listOfTweets": [243]}
+{"hashtagName": "#Army", "frequency": 1, "listOfTweets": [243]}
+{"hashtagName": "#tanks", "frequency": 1, "listOfTweets": [243]}
+{"hashtagName": "#Crimea", "frequency": 1, "listOfTweets": [246]}
+{"hashtagName": "#Taiwan", "frequency": 1, "listOfTweets": [249]}
+{"hashtagName": "#Putin:", "frequency": 1, "listOfTweets": [256]}
+{"hashtagName": "#Erdogan's", "frequency": 1, "listOfTweets": [258]}
+{"hashtagName": "#Aljazeera", "frequency": 1, "listOfTweets": [261]}
+{"hashtagName": "#Erdo\u011fan's", "frequency": 1, "listOfTweets": [261]}
+{"hashtagName": "#Kiev", "frequency": 1, "listOfTweets": [261]}
+{"hashtagName": "#Erdogan", "frequency": 1, "listOfTweets": [264]}
+{"hashtagName": "#Lavrov", "frequency": 1, "listOfTweets": [281]}
+{"hashtagName": "#TopStories", "frequency": 1, "listOfTweets": [293]}
+{"hashtagName": "#Czech", "frequency": 1, "listOfTweets": [303]}
+{"hashtagName": "#Donbas", "frequency": 1, "listOfTweets": [303]}
+{"hashtagName": "#Slovak", "frequency": 1, "listOfTweets": [303]}
+{"hashtagName": "#Austrian", "frequency": 1, "listOfTweets": [303]}
+{"hashtagName": "#EU", "frequency": 1, "listOfTweets": [303]}
+{"hashtagName": "#Hungary", "frequency": 1, "listOfTweets": [315]}
+{"hashtagName": "#EuropeanUnion", "frequency": 1, "listOfTweets": [315]}
+{"hashtagName": "#Orban", "frequency": 1, "listOfTweets": [315]}
+{"hashtagName": "#Breaking:", "frequency": 1, "listOfTweets": [319]}
+{"hashtagName": "#Ukraine\u2019s", "frequency": 1, "listOfTweets": [319]}
+{"hashtagName": "#Kyiv", "frequency": 1, "listOfTweets": [319]}
+{"hashtagName": "#Moscow", "frequency": 1, "listOfTweets": [320]}
+{"hashtagName": "#Ukraine's", "frequency": 1, "listOfTweets": [326]}
+{"hashtagName": "#yegdt", "frequency": 1, "listOfTweets": [330]}
+{"hashtagName": "#cbseveningnewswithnorahodonnell", "frequency": 1, "listOfTweets": [335]}
+{"hashtagName": "#BorisJohnson", "frequency": 1, "listOfTweets": [348]}
+{"hashtagName": "#Ucraina", "frequency": 1, "listOfTweets": [348]}
+{"hashtagName": "#Politics-Russia", "frequency": 1, "listOfTweets": [362]}
+{"hashtagName": "#Belarus", "frequency": 1, "listOfTweets": [366]}
+{"hashtagName": "#NATO's", "frequency": 1, "listOfTweets": [366]}
+{"hashtagName": "#Russia\u201d", "frequency": 1, "listOfTweets": [371]}
+{"hashtagName": "#Georgia", "frequency": 1, "listOfTweets": [371]}

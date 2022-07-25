@@ -1,0 +1,549 @@
+Cluster number -  0
+['republic day celebrations', 0.6672]
+['republic day celebrations initiatives', 0.6307]    
+Central Word -  ['republic day celebrations', 0.6672]
+
+
+
+Cluster number -  1
+['covid cases delhi today', 0.8624]
+['cases delhi today', 0.6539]
+['delhi today covid cases', 0.7886]
+Central Word -  ['covid cases delhi today', 0.8624]  
+
+
+
+Cluster number -  2
+['delhi friday covid cases', 0.774]
+Central Word -  ['delhi friday covid cases', 0.774]  
+
+
+
+Cluster number -  3
+['number doses delhi', 0.7906]
+['doses delhi', 0.7712]
+['number doses delhi 00', 0.7621]
+['doses delhi 00', 0.7493]
+['doses delhi 00 days', 0.7289]
+Central Word -  ['number doses delhi', 0.7906]
+
+
+
+Cluster number -  4
+['monday dilli ki yogshala', 0.5287]
+['dilli ki yogshala online', 0.5217]
+['dilli ki yogshala', 0.5053]
+Central Word -  ['monday dilli ki yogshala', 0.5287]
+
+
+
+Cluster number -  5
+['debris garbage parking yamuna', 0.5861]
+['garbage parking yamuna', 0.5793]
+['debris parking river maximum', 0.5336]
+Central Word -  ['debris garbage parking yamuna', 0.5861]
+
+
+
+Cluster number -  6
+['covid patients hospitals', 0.6113]
+['covid government hospitals', 0.6647]
+['covid government hospitals state', 0.6291]
+['professionals covid government hospitals', 0.6092]
+Central Word -  ['covid patients hospitals', 0.6113]
+
+
+
+Cluster number -  7
+['delhi 496 positivity', 0.5361]
+['delhi 496 positivity rate', 0.5286]
+['19 positivity rate delhi', 0.6681]
+['positivity rate delhi 55', 0.6662]
+['positivity rate delhi', 0.6533]
+['delhi positivity rate cent', 0.6741]
+['delhi positivity rate', 0.6573]
+['delhi positivity', 0.636]
+Central Word -  ['delhi 496 positivity', 0.5361]
+
+
+
+Cluster number -  8
+['covid cases delhi', 0.7352]
+['covid cases delhi baijal', 0.6187]
+['covid 19 delhi', 0.6872]
+['covid 19 cases delhi', 0.7965]
+['delhi covid 19 cases', 0.7682]
+['delhi covid 19', 0.7218]
+['delhi 716 covid 19', 0.7214]
+Central Word -  ['covid cases delhi', 0.7352]
+
+
+
+Cluster number -  9
+['kumar life covid nursing', 0.6868]
+['policy kumar life covid', 0.6309]
+Central Word -  ['kumar life covid nursing', 0.6868]
+
+
+
+Cluster number -  10
+['aadmi party janlokpal bill', 0.7592]
+['aam aadmi party janlokpal', 0.7271]
+['aadmi party janlokpal', 0.7188]
+Central Word -  ['aadmi party janlokpal bill', 0.7592]
+
+
+
+Cluster number -  11
+['000 covid cases delhi', 0.6618]
+['covid delhi far amount', 0.6859]
+['delhi government spread covid', 0.624]
+Central Word -  ['000 covid cases delhi', 0.6618]
+
+
+
+Cluster number -  12
+['party janlokpal bill misleading', 0.7236]
+['janlokpal bill misleading', 0.6869]
+Central Word -  ['party janlokpal bill misleading', 0.7236]
+
+
+
+Cluster number -  13
+['multi crore heist suspended', 0.6967]
+['crore heist suspended ips', 0.6771]
+Central Word -  ['multi crore heist suspended', 0.6967]
+
+
+
+Cluster number -  14
+['restaurants cinema halls losses', 0.5221]
+Central Word -  ['restaurants cinema halls losses', 0.5221]
+
+
+
+Cluster number -  15
+['survey impact covid 19', 0.6029]
+['survey impact covid', 0.6002]
+['plans survey impact covid', 0.5924]
+Central Word -  ['survey impact covid 19', 0.6029]
+
+
+
+Cluster number -  16
+['delhi metro', 0.6089]
+['series delhi metro', 0.5861]
+['delhi metro struck metro', 0.5549]
+['book series delhi metro', 0.5521]
+Central Word -  ['delhi metro', 0.6089]
+
+
+
+Cluster number -  17
+['slanderous inciting community', 0.5986]
+['language slanderous inciting community', 0.5723]
+['foul language slanderous inciting', 0.5605]
+['reason foul language slanderous', 0.5353]
+['foul language slanderous', 0.5286]
+Central Word -  ['slanderous inciting community', 0.5986]
+
+
+
+Cluster number -  18
+['zones delhi district', 0.6719]
+['district zones delhi', 0.6666]
+['zones delhi', 0.6481]
+['district zones delhi district', 0.6466]
+['zones delhi district chankyapuri', 0.6333]
+Central Word -  ['zones delhi district', 0.6719]
+
+
+
+Cluster number -  19
+['covid lungs pranayama', 0.5004]
+Central Word -  ['covid lungs pranayama', 0.5004]
+
+
+
+Cluster number -  20
+['wave occupancy icu beds', 0.6687]
+['hospitals wave occupancy icu', 0.6384]
+['occupancy icu beds oxygen', 0.625]
+['occupancy icu beds however', 0.6218]
+['occupancy icu beds', 0.6195]
+Central Word -  ['wave occupancy icu beds', 0.6687]
+
+
+
+Cluster number -  21
+['covid 19 symptoms', 0.6604]
+['today covid 19 symptoms', 0.6467]
+['covid 19 symptoms except', 0.642]
+Central Word -  ['covid 19 symptoms', 0.6604]
+
+
+
+Cluster number -  22
+['home rashtrapati bhavan republic', 0.5843]
+['rashtrapati bhavan republic day', 0.5696]
+['rashtrapati bhavan republic', 0.5663]
+['home rashtrapati bhavan', 0.5248]
+['rashtrapati bhavan', 0.514]
+Central Word -  ['home rashtrapati bhavan republic', 0.5843]
+
+
+
+Cluster number -  23
+['students reopening schools', 0.6045]
+['reopening schools', 0.601]
+Central Word -  ['students reopening schools', 0.6045]
+
+
+
+Cluster number -  24
+['cafe delhi foodies covid', 0.6895]
+['delhi foodies covid', 0.6867]
+['cafe delhi foodies', 0.6429]
+['delhi restaurants', 0.6415]
+Central Word -  ['cafe delhi foodies covid', 0.6895]
+
+
+
+Cluster number -  25
+['day covid 19 infections', 0.6761]
+['covid 19 infections 55', 0.6518]
+['covid 19 infections', 0.6417]
+Central Word -  ['day covid 19 infections', 0.6761]
+
+
+
+Cluster number -  26
+['delhi covid', 0.7849]
+['covid delhi', 0.6892]
+['delhi', 0.4995]
+['employees delhi covid', 0.6681]
+['delhi today covid', 0.7528]
+Central Word -  ['delhi covid', 0.7849]
+
+
+
+Cluster number -  27
+['ddma restrictions dine facility', 0.6721]
+['ddma restrictions dine', 0.6257]
+Central Word -  ['ddma restrictions dine facility', 0.6721]
+
+
+
+Cluster number -  28
+['virus lnjp hospital ddu', 0.6778]
+['virus lnjp hospital', 0.6512]
+Central Word -  ['virus lnjp hospital ddu', 0.6778]
+
+
+
+Cluster number -  29
+['gurgaon multi crore heist', 0.7256]
+['crore theft case gurgaon', 0.7096]
+['gurgaon multi crore', 0.6703]
+Central Word -  ['gurgaon multi crore heist', 0.7256]
+
+
+
+Cluster number -  30
+['vaccination coverage students reopening', 0.6485]
+['delhi government vaccination coverage', 0.6128]
+['delhi government vaccination', 0.6125]
+Central Word -  ['vaccination coverage students reopening', 0.6485]
+
+
+
+Cluster number -  31
+['old delhi odd customers', 0.71]
+['delhi odd customers', 0.699]
+['delhi odd customers days', 0.6907]
+['delhi odd', 0.6841]
+Central Word -  ['old delhi odd customers', 0.71]
+
+
+
+Cluster number -  32
+['day covid 19', 0.6313]
+['disease covid 19 days', 0.527]
+['covid 19 days', 0.524]
+Central Word -  ['day covid 19', 0.6313]
+
+
+
+Cluster number -  33
+['beds covid 19 situation', 0.5733]
+['beds covid', 0.5628]
+['beds covid 19', 0.5552]
+Central Word -  ['beds covid 19 situation', 0.5733]
+
+
+
+Cluster number -  34
+['covid patients', 0.6556]
+['rate disease covid 19', 0.5368]
+['patients covid 19', 0.6725]
+['covid patients delhi', 0.7906]
+['covid patients delhi hospitals', 0.7408]
+['beds covid patients delhi', 0.6881]
+Central Word -  ['covid patients', 0.6556]
+
+
+
+Cluster number -  35
+['covid 19 vaccine number', 0.6838]
+['dose covid 19 vaccine', 0.6682]
+['covid 19 vaccine', 0.666]
+Central Word -  ['covid 19 vaccine number', 0.6838]
+
+
+
+Cluster number -  36
+['delhi labs real time', 0.5378]
+Central Word -  ['delhi labs real time', 0.5378]
+
+
+
+Cluster number -  37
+['delhi government plans survey', 0.6691]
+['delhi government plans', 0.5556]
+Central Word -  ['delhi government plans survey', 0.6691]
+
+
+
+Cluster number -  38
+['yogshala online classes week', 0.5052]
+Central Word -  ['yogshala online classes week', 0.5052]
+
+
+
+Cluster number -  39
+['delhi mumbai bengaluru covid', 0.6733]
+['mumbai bengaluru covid', 0.6115]
+Central Word -  ['delhi mumbai bengaluru covid', 0.6733]
+
+
+
+Cluster number -  40
+['covid 19 cases deaths', 0.6153]
+['disease covid 19 death', 0.6107]
+['covid 19 death', 0.6038]
+['covid cases deaths positivity', 0.6557]
+Central Word -  ['covid 19 cases deaths', 0.6153]
+
+
+
+Cluster number -  41
+['covid toll delhi health', 0.7202]
+['covid toll delhi', 0.6849]
+Central Word -  ['covid toll delhi health', 0.7202]
+
+
+
+Cluster number -  42
+['crore vehicles years dumping', 0.5436]
+Central Word -  ['crore vehicles years dumping', 0.5436]
+
+
+
+Cluster number -  43
+['delhi covid update', 0.7414]
+['delhi covid update amid', 0.7243]
+Central Word -  ['delhi covid update', 0.7414]
+
+
+
+Cluster number -  44
+['sops delhi', 0.5487]
+Central Word -  ['sops delhi', 0.5487]
+
+
+
+Cluster number -  45
+['covid 19 positivity rate', 0.6038]
+['covid 19 positivity', 0.5714]
+Central Word -  ['covid 19 positivity rate', 0.6038]
+
+
+
+Cluster number -  46
+['ddma meeting restrictions delhi', 0.7609]
+['restrictions delhi', 0.6847]
+['meeting restrictions delhi', 0.6419]
+Central Word -  ['ddma meeting restrictions delhi', 0.7609]
+
+
+
+Cluster number -  47
+['workers virus lnjp hospital', 0.7072]
+['health workers virus lnjp', 0.6855]
+['lakhs health workers virus', 0.6545]
+Central Word -  ['workers virus lnjp hospital', 0.7072]
+
+
+
+Cluster number -  48
+['shop january 21 delhi', 0.6707]
+Central Word -  ['shop january 21 delhi', 0.6707]
+
+
+
+Cluster number -  49
+['wave covid 19 delhi', 0.6553]
+['covid 19 delhi wave', 0.6389]
+['india wave covid 19', 0.6009]
+Central Word -  ['wave covid 19 delhi', 0.6553]
+
+
+
+Cluster number -  50
+['dose well delhi government', 0.4803]
+['796 covid cases delhi', 0.8027]
+['delhi thursday 097 covid', 0.6675]
+['delhi 716 covid', 0.7196]
+['delhi delhi 716 covid', 0.6987]
+['delhi tuesday 028 covid', 0.6497]
+Central Word -  ['dose well delhi government', 0.4803]
+
+
+
+Cluster number -  51
+['kejriwal tuesday test positivity', 0.5337]
+['kejriwal yellow tuesday plan', 0.6161]
+Central Word -  ['kejriwal tuesday test positivity', 0.5337]
+
+
+
+Cluster number -  52
+['day infections maharashtra 845', 0.5349]
+Central Word -  ['day infections maharashtra 845', 0.5349]
+
+
+
+Cluster number -  53
+['delhi cases disease covid', 0.71]
+['delhi cases disease', 0.5707]
+['hike delhi cases disease', 0.5406]
+Central Word -  ['delhi cases disease covid', 0.71]
+
+
+
+Cluster number -  54
+['delhi country republic day', 0.5235]
+['republic day rajpath delhi', 0.7145]
+Central Word -  ['delhi country republic day', 0.5235]
+
+
+
+Cluster number -  55
+['monday delhi 760 covid', 0.6616]
+['delhi 760 covid', 0.6339]
+['delhi 760 covid 19', 0.6313]
+Central Word -  ['monday delhi 760 covid', 0.6616]
+
+
+
+Cluster number -  56
+['delhi sunday 197 coronavirus', 0.7642]
+['58 pm ist coronavirus', 0.6545]
+Central Word -  ['delhi sunday 197 coronavirus', 0.7642]
+
+
+
+Cluster number -  57
+['delhi 496', 0.516]
+['delhi 48 356 home', 0.5444]
+['delhi 28 395', 0.5377]
+Central Word -  ['delhi 496', 0.516]
+
+
+
+Cluster number -  58
+['delhi development authority fine', 0.6516]
+Central Word -  ['delhi development authority fine', 0.6516]
+
+
+
+Cluster number -  59
+['republic day covid', 0.6401]
+['state republic day covid', 0.6279]
+Central Word -  ['republic day covid', 0.6401]
+
+
+
+Cluster number -  60
+['delhi government friday weekend', 0.6288]
+['delhi government friday', 0.6099]
+['delhi government friday january', 0.5383]
+Central Word -  ['delhi government friday weekend', 0.6288]
+
+
+
+Cluster number -  61
+['753 patients covid 19', 0.6879]
+['67 753 patients covid', 0.6776]
+['753 patients covid', 0.6623]
+Central Word -  ['753 patients covid 19', 0.6879]
+
+
+
+Cluster number -  62
+['61 954 cases delhi', 0.5423]
+['954 cases delhi', 0.5364]
+['delhi 28 395 cases', 0.6367]
+Central Word -  ['61 954 cases delhi', 0.5423]
+
+
+
+Cluster number -  63
+['delhi minister arvind kejriwal', 0.5577]
+['kejriwal tuesday covid 19', 0.6087]
+Central Word -  ['delhi minister arvind kejriwal', 0.5577]
+
+
+
+Cluster number -  64
+['gambhir today covid 19', 0.6029]
+['covid 19 friday city', 0.5378]
+['covid 19 friday', 0.5336]
+Central Word -  ['gambhir today covid 19', 0.6029]
+
+
+
+Cluster number -  65
+['586 people covid delhi', 0.7126]
+['people covid delhi', 0.6826]
+['customers people delhi', 0.5466]
+Central Word -  ['586 people covid delhi', 0.7126]
+
+
+
+Cluster number -  66
+['covid cases capital delhi', 0.75]
+['capital delhi today covid', 0.7718]
+Central Word -  ['covid cases capital delhi', 0.75]
+
+
+
+Cluster number -  67
+['india covid 19 cases', 0.6943]
+['099 cases disease covid', 0.6046]
+['covid 19 cases', 0.6292]
+Central Word -  ['india covid 19 cases', 0.6943]
+
+
+
+Cluster number -  68
+['covid 19', 0.5843]
+['covid', 0.4968]
+['18 dose covid', 0.5983]
+Central Word -  ['covid 19', 0.5843]
+
+
+
+Cluster number -  69
+['delhi foodies covid halt', 0.6529]
+Central Word -  ['delhi foodies covid halt', 0.6529]
